@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora de Préstamos</string>
+    <string name="loan_amount">Monto del préstamo</string>
+    <string name="loan_term">Plazo</string>
+    <string name="interest_rate">Tasa de interés anual (%)</string>
+    <string name="years">Años</string>
+    <string name="months">Meses</string>
+    <string name="calculate">Calcular</string>
+    <string name="results">Resultado del cálculo</string>
+    <string name="monthly_fee">Cuota mensual</string>
+    <string name="total_interest">Intereses totales</string>
+    <string name="total_amount">Monto total a pagar</string>
+    <string name="back">Volver</string>
+    <string name="error_empty">Por favor, completa todos los campos</string>
+</resources>
